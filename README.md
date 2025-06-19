@@ -5,7 +5,7 @@ I am a Data Science student with nearly two years of experience in teaching and 
 
 ## 📞 Contact
 - **Email**: [andihisyam0012@gmail.com](mailto:andihisyam0012@gmail.com)
-- **LinkedIn**: [andi-hisyam-818b8315a]
+- **LinkedIn**: https://www.linkedin.com/in/andi-hisyam/
 
 ## 🎓 Education
 - **Telkom University Purwokerto**  
