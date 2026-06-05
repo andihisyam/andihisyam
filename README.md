@@ -9,7 +9,7 @@ Data Science graduate candidate at Telkom University Purwokerto with hands-on ex
 - Open to internship and entry-level opportunities
 
 ## Portfolio
-- [Portfolio Website Repository](https://github.com/andihisyam/portfolio-website)
+- [Portfolio Website](https://andihisyam.github.io/portfolio-website/)
 - [Introduction Video](https://github.com/andihisyam/portfolio-website/blob/main/Introduction_Video.mp4)
 - CV is available in the portfolio website repository
 
